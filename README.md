@@ -29,6 +29,16 @@ As a backend developer, I am focused on building robust and scalable systems usi
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
+### 🏆 Awards 
+[카카오테크캠퍼스 2기 아이디어톤 우수상](https://animoto1.tistory.com/entry/%EC%B9%B4%ED%85%8C%EC%BA%A0-2%EA%B8%B0-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%ED%86%A4-%EC%9A%B0%EC%88%98%EC%83%81-%ED%9B%84%EA%B8%B0) 
+
+
+### 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pykido&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pykido&layout=compact&theme=radical)
+
 
 ### 🏅 Algorithm Gold Level. 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=animoto1)](https://solved.ac/animoto1/)  
