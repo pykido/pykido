@@ -9,11 +9,11 @@ As a backend developer, I am focused on building robust and scalable systems usi
 ### 📫 Contact
 - email : animoto1@pusan.ac.kr
 - blog : https://animoto1.tistory.com
-
+- linkedin : [LinkedIn Profile](https://www.linkedin.com/in/%EA%B9%80%ED%83%9C%EC%9C%A4)
 
 ### 🚀 Projects 
 ### [경단](https://animoto1.tistory.com/entry/%EA%B2%BD%EB%8B%A8%EA%B2%BD%EC%A0%9C-%EB%8B%A8%EC%88%9C%ED%95%98%EA%B2%8C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-SW%EC%A4%91%EC%8B%AC%EB%8C%80%ED%95%99-%EB%94%94%EC%A7%80%ED%84%B8-%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C-%ED%9A%8C%EA%B3%A0) (2024.06 ~ 2024.07)
-- 2024 SW중심대학 디지털 경진대회 부산대학교 대표팈으로 참여 
+- 2024 SW중심대학 디지털 경진대회 부산대학교 대표팀으로 참여 
 - 경제 기사 및 경제 사전과 같은 경제 관련 개념들을 사용자 친화적으로 시각화하고 학습을 지원하는 웹 애플리케이션 백엔드 서버 개발 
 
 
@@ -32,12 +32,10 @@ As a backend developer, I am focused on building robust and scalable systems usi
 - 카카오테크캠퍼스 2기 2024.04.8 ~ 2024.11.20
 
 
-### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pykido&show_icons=true&theme=radical)
+### 📊 Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pykido&show_icons=true&theme=radical&cache_seconds=1800)
 
-
-### 🏅 Algorithm Gold Level. 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=animoto1)](https://solved.ac/animoto1/)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=animoto1)](https://solved.ac/animoto1/) 
 
 
 <!--
