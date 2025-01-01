@@ -32,17 +32,8 @@ As a backend developer, I am focused on building robust and scalable systems usi
 - 카카오테크캠퍼스 2기 2024.04.8 ~ 2024.11.20
 
 
-### 🛠️ Skills & Tech Stack
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-
-
-
 ### 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pykido&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pykido&layout=compact&theme=radical)
 
 
 ### 🏅 Algorithm Gold Level. 
