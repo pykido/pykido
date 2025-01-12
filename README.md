@@ -1,7 +1,7 @@
 ## Hi I'm taeyune 👋
 
 ### 💻 About Me
-Hello! 👋
+Hello! 
 I’m currently an undergraduate student at Pusan National University, Republic of Korea, majoring in Computer Science.
 As a backend developer, I am focused on building robust and scalable systems using Spring Boot and FastAPI.
 
