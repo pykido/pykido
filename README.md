@@ -26,7 +26,8 @@ As a backend developer, I am focused on building robust and scalable systems usi
 
 ### 🏆 Awards 
 [카카오테크캠퍼스 2기 아이디어톤 우수상](https://animoto1.tistory.com/entry/%EC%B9%B4%ED%85%8C%EC%BA%A0-2%EA%B8%B0-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%ED%86%A4-%EC%9A%B0%EC%88%98%EC%83%81-%ED%9B%84%EA%B8%B0) 
-
+2021년도 어드벤처디자인 우수사례 역량강화 발표회 - 우수상
+2024 SW중심대학 마일스톤 장학생
 
 ### 🏫 Education
 - 부산대학교 정보컴퓨터공학부 2021.03 ~ 
