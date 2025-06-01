@@ -22,7 +22,14 @@ As a backend developer, I am focused on building robust and scalable systems usi
 - 요양원 관리 플랫폼 백엔드 서버 개발 (기획리더이자 PM으로 참여) 
 - 요양보호사는 간편하게 차트를 작성하고, 보호자는 이를 실시간으로 확인할 수 있는, 기존 상용화된 요양원 관리 플랫폼의 단점들을 보완한 디지털 차트 서비스 제공  
 
-### 취뽀해 (2025.01.20 ~ )
+### [코드몬스터](https://codemonster.site/) (2025.03 ~ 진행중)
+- 약 130여 명(2025.06.02 기준)이 참여 중인 온라인 코딩 테스트 스터디 플랫폼 운영중 
+- Spring Boot 기반 백엔드, AWS 인프라 개발 및 스터디 운영 담당중
+
+### [PNUOps](https://github.com/PNUops/ops-mvp-back) (2025.04 ~ 진행중)
+- 부산대학교 소프트웨어융합교육원 소속 개발팀으로, 학내 서비스 구축 프로젝트에 참여
+- 학생들의 대회, 졸업작품 등 주요 활동을 아카이빙하는 성과관리 시스템과 투표 기반 운영 기능을 개발 중
+- Spring Boot 기반 백엔드 개발 담당
 
 ### 🏆 Awards 
 [카카오테크캠퍼스 2기 아이디어톤 우수상](https://animoto1.tistory.com/entry/%EC%B9%B4%ED%85%8C%EC%BA%A0-2%EA%B8%B0-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%ED%86%A4-%EC%9A%B0%EC%88%98%EC%83%81-%ED%9B%84%EA%B8%B0) 
