@@ -43,8 +43,8 @@ As a backend developer, I am focused on building robust and scalable systems usi
 - 카카오테크캠퍼스 2기 2024.04.8 ~ 2024.11.20
 
 ### 🪪 Certificates
-- SQLD
-- ADSP
+- SQLD (2023.10.06)
+- ADSP (2024.09.06)
 
 ### 📊 Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pykido&show_icons=true&theme=radical&cache_seconds=1800)
