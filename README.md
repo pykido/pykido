@@ -7,7 +7,7 @@
 
 - 개발하며 배운 것들을 꾸준히 기록합니다
 
-🔗 [블로그](https://animoto1.tistory.com)
+- 🔗 [블로그](https://animoto1.tistory.com)
 
 ## 📂 포트폴리오 & 이력서
 
