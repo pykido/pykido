@@ -1,19 +1,36 @@
-## 💻 경력
+# 김태윤
 
-- 부산대학교 정보컴퓨터공학부 재학 중  
+**Backend Developer**
 
-## ✍️ 기록
+Java와 Spring Boot로 백엔드를 개발합니다.  
+서비스의 성능과 인증, 배포 환경을 개선하고 그 과정을 기록합니다.
 
-- 개발하며 배운 것들을 꾸준히 기록합니다
+[Blog](https://animoto1.tistory.com/) | [Email](mailto:animoto1@naver.com)
 
-- 🔗 [블로그](https://animoto1.tistory.com)
+## Projects
 
-## 📂 포트폴리오 & 이력서
+### CodeMonster
+코딩테스트 스터디 플랫폼
 
-- 📄 [포트폴리오](https://carpal-jute-e07.notion.site/2ab45cbdb6d180eda38ff3dc6bc3df11?source=copy_link)
-- 📋 [이력서](https://carpal-jute-e07.notion.site/2ab45cbdb6d180f58ec7e8b8ee276e29?source=copy_link)
+백엔드 개발과 운영을 맡아 S3 이미지 업로드 구조와 게시글 API를 개선하고, 배포와 모니터링 환경을 구축했습니다.
 
-## 📬 Contact
+[Repository](https://github.com/PNUMeat/comon-be) | [S3 이미지 구조 개선 PR](https://github.com/PNUMeat/comon-be/pull/30)
 
-- 📧 animoto1@pusan.ac.kr
-- 💼 [LinkedIn](https://www.linkedin.com/in/%EA%B9%80%ED%83%9C%EC%9C%A4)
+### OPUS
+부산대학교 교내 성과관리 플랫폼
+
+Google OAuth 로그인과 댓글, 투표, 관리자용 조회 API를 구현했습니다.
+
+[Repository](https://github.com/PNUops/opus-backend) | [Google 로그인 개선 PR](https://github.com/PNUops/opus-backend/pull/81)
+
+### ChaosLab
+Kubernetes 기반 장애 실험 플랫폼
+
+Terraform 기반 EKS 환경과 GitOps 배포 파이프라인을 구축하고, Prometheus 실측 지표 연동을 구현했습니다.
+
+[Repository](https://github.com/KuardianAngelRing/chaoslab) | [실측 지표 연동 PR](https://github.com/KuardianAngelRing/chaoslab/pull/5)
+
+## Experience
+
+- 부산대학교 정보컴퓨터공학부 — 2027.02 졸업 예정
+- 트리노드 AI 엔지니어 인턴 — 2026.03 ~ 2026.07
