@@ -1,9 +1,9 @@
 # 김태윤
 
-**Backend Developer**
+**Software Engineer**
 
-Java와 Spring Boot로 백엔드를 개발합니다.  
-서비스의 성능과 인증, 배포 환경을 개선하고 그 과정을 기록합니다.
+웹과 AI 서비스를 개발하고, 배포와 운영 환경을 개선합니다.  
+개발하며 마주한 문제와 해결 과정을 블로그에 기록합니다.
 
 [Blog](https://animoto1.tistory.com/) | [Email](mailto:animoto1@naver.com)
 
@@ -23,7 +23,7 @@ Google OAuth 로그인과 댓글, 투표, 관리자용 조회 API를 구현했�
 
 [Repository](https://github.com/PNUops/opus-backend) | [Google 로그인 개선 PR](https://github.com/PNUops/opus-backend/pull/81)
 
-### ChaosLab
+### ChaosLab - 부산대학교 2026 전기 졸업과제
 Kubernetes 기반 장애 실험 플랫폼
 
 Terraform 기반 EKS 환경과 GitOps 배포 파이프라인을 구축하고, Prometheus 실측 지표 연동을 구현했습니다.
